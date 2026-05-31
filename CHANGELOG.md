@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.0.0-prod — 2026-05-31
+
+- Hardened to v1.0-prod per squad doctrine, Operator Diagnostics lane.
+- GitHub Pages enabled, custom domain https://sensor.kineticgain.com/.
+- Added to AI Procurement Pulse universe.csv.
+- Surfaced on mizcausevic-dev profile README + apex /constellation/ Operator Diagnostics lane.
+- No src changes; CI gates green, AGPL-3.0-or-later, synthetic data only.
+
+
+
 ## v1.0.0-prod — 2026-05-28
 - Production hardening pass on Codex's v0.1-shipped scaffold. Confirmed CI + Pages workflow green on `main` at HEAD before tagging `v1.0-prod`.
 - Codex's v2-era scaffold already carries the `## Production status` block, `## Part of the Kinetic Gain Suite` SEO footer, `Monetization ladder` with honest tier wording, and KGE `/embedded` tie-back — confirmed unchanged, no narrative edits.
